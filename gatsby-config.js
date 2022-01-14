@@ -7,6 +7,7 @@ module.exports = {
     siteUrl: `https://maydaystrike.org/`,
     social: {
       github: "MayDayStrike",
+      instagram: "MayDayStrike",
       twitter: "MayDayStrike22",
     }
   },
