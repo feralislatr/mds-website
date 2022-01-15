@@ -6,7 +6,7 @@ import Seo from "../components/seo"
 
 const FAQPage = () => (
   <Layout>
-    <Seo title="Page two" />
+    <Seo title="Frequently Asked Questions" />
     <h1>May Day Strike FAQ</h1>
     <ol>
       <li>Why is a strike an effective tool against worker oppression?</li>
