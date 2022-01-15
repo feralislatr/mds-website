@@ -39,9 +39,9 @@
              marginTop: `2rem`,
            }}
          >
-           © {new Date().getFullYear()}, Built with
+           © {new Date().getFullYear()},
            {` `}
-           <a href="https://www.gatsbyjs.com">Gatsby</a>
+           <a href="https://twitter.com/maydaystrike22">May Day Strike</a>
          </footer>
        </div>
      </>
