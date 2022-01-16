@@ -28,6 +28,7 @@ const IndexPage = () => (
       <Link to="/donate">Go to "Donate"</Link> <br />
       <Link to="/events">Go to "Events"</Link> <br />
       <Link to="/faq">Go to "FAQ"</Link> <br />
+      <Link to="/demands">Go to "Our Demands"</Link> <br />
       <Link to="/get-involved">Go to "Get Involved"</Link> <br />
       <Link to="/info">Go to "Info"</Link>
     </p>
